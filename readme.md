@@ -100,4 +100,6 @@ IMDB-project/
   - Duration
 
 ## 📽️ Project demo
+https://github.com/user-attachments/assets/ac996054-2798-4505-82bb-add1b2e2171f
+
 
